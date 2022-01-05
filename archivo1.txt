@@ -2,8 +2,12 @@ commit 1
 <<<<<<< HEAD
 commit 2
 commit 3
+<<<<<<< HEAD
 commit 4
 commit 5
 =======
 commit 2
 >>>>>>> parent of be74e88 (se hace tercer comit)
+=======
+commit 4
+>>>>>>> parent of 0671268 (se hace quinto commit)
